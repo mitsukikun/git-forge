@@ -1,8 +1,8 @@
 # gitforge
 
-[![make.fun](https://img.shields.io/badge/make.fun-github--core--clone--01-blue)](https://make.fun)
-[![Node](https://img.shields.io/badge/node-%3E%3D22.18-green)](https://nodejs.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/mitsukikun/git-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/mitsukikun/git-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A standalone GitHub-compatible git forge in one Node process — no git binary, no
 database, no outside service. It implements the git object store, packfiles, refs and
